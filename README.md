@@ -28,6 +28,9 @@ to generate Buy / Hold / Sell signals, optimize portfolios, and continuously imp
 | 🧪 Backtesting Agent   | Strategy validation using historical data             |
 | 🔁 Simulation Agent    | Mock trades, performance tracking, feedback loop      |
 
+
+<img width="1061" height="716" alt="image" src="https://github.com/user-attachments/assets/1026b34b-9f78-4bf3-87ad-255824eb5c55" />
+
 🔐 Disclaimer
 
 ⚠️ This project is for educational and research purposes only.
